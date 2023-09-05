@@ -5,10 +5,15 @@
 </div>
 <div>
 ### ✅Sobre mi
-- 📚 Actualmente estoy aprendiendo Python, Java y Javascript 
-- 💬 Estoy en proceso de mejorar mis habilidades como programadora 
-- 💻 Busco ayudar a personas a solucionar problemas y desafíos en el ámbito de la progarmación 
+    
+- 📚 Actualmente estoy aprendiendo Python, Java y Javascript
+  
+- 💬 Estoy en proceso de mejorar mis habilidades como programadora
+  
+- 💻 Busco ayudar a personas a solucionar problemas y desafíos en el ámbito de la progarmación
+  
 - ✉️ Cómo contactarme: [angelinapizzolatto@gmail.com]
+  
 - 💬 Mi idioma nativo es el español y soy B1 en inglés 
 </div>
 <div align="left"> 
