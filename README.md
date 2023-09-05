@@ -4,7 +4,7 @@
     </h3>
 </div>
 <div>
-### ✅Sobre mi
+✅Sobre mi
     
 - 📚 Actualmente estoy aprendiendo Python, Java y Javascript
   
