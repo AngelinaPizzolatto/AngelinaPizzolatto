@@ -1,23 +1,23 @@
 <div>
     <h1 align="center"> Hi👋I´m Angelina Pizzolatto</h1>
-    <h3 align="center">Soy una estudiante apasionada por la programación y el aprendizaje constante. Actualmente, curso primer año en una tecnicatura en programación en Argentina, donde estoy construyendo las bases sólidas para mi carrera en el mundo de la tecnología. Siempre estoy emocionada por explorar nuevas tecnologías y desafíos, mientras trabajo en proyectos que me permiten aplicar mis habilidades y ampliar mi conocimiento.
+    <h3 align="center"> I’m a student passionate about programming and constant learning. Currently, I am studying the first year of a programming degree in Argentina, where I’m building the solid foundations for my career in the world of technology. I’m always excited to explore new technologies and challenges, while working on projects that allow me to apply my skills and expand my knowledge.
     </h3>
 </div>
 <div>
-✅Sobre mi
+✅About me 
     
-- 📚 Actualmente estoy aprendiendo Python, Java y Javascript
+- 📚 I'm currently learning Python, Java and Javascript
   
-- 💬 Estoy en proceso de mejorar mis habilidades como programadora
+- 💬 I'm in the process of improving my skills as a programmer.
   
-- 💻 Busco ayudar a personas a solucionar problemas y desafíos en el ámbito de la progarmación
+- 💻 I seek to help people solve problems and challenges in the field of programming
   
-- ✉️ Cómo contactarme: [angelinapizzolatto@gmail.com]
+- ✉️ How to contact me: [angelinapizzolatto@gmail.com]
   
-- 💬 Mi idioma nativo es el español y soy B1 en inglés 
+- 💬  My native language is Spanish and I am B1 in English
 </div>
 <div align="left"> 
-    <h3>🔨 Lenguajes y herramientas</h3>
+    <h3>🔨 Languages ​​and Tools</h3>
     <div>
     <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" tittle="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" tittle="CSS#" alt="CSS" width="40" height="40"/>&nbsp;
