@@ -1,5 +1,11 @@
+<div align=center>
+        <br>
+        <p>
+            <strong>
+                Hi👋I´m Angelina Pizzolatto Computer Science Student, Problem Solver, Freelancer <br><br>
+            </strong>
+        </p>
 <div>
-    <h1 align="center"> Hi👋I´m Angelina Pizzolatto</h1>
     <h3 align="center"> I’m a student passionate about programming and constant learning. Currently, I am studying the first year of a programming degree in Argentina, where I’m building the solid foundations for my career in the world of technology. I’m always excited to explore new technologies and challenges, while working on projects that allow me to apply my skills and expand my knowledge.
     </h3>
 </div>
@@ -29,3 +35,30 @@
     <img src ="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="Git" alt="Git" width="40" height="40"/>&nbsp;
     </div>
 </div>
+<div align="left">
+    Soft skills
+   - Teamwork 
+    
+   - Effective technical communication
+     
+   - Leadership
+     
+   - Responsibility
+     
+   - Proactivity and time management
+<div>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--íconos y links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://instagram.com/angipizzolatto_?igshid=YTQwZjQ0NmI0OA==" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+<img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="50" width="50">](mailto:angelinaornellachami@gmail.com)
+<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+<a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+</p>
+
