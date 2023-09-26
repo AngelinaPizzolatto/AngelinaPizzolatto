@@ -1,10 +1,10 @@
 <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=900&size=35&pause=1000&color=F7F7F7&width=550&height=60&lines=Hi%F0%9F%91%8BI%C2%B4m+Angelina+Pizzolatto;Computer+Science+Student;Problem+Solver;and+Freelance+worker..." alt="Typing SVG" /></a>
-<div>
-    <h3 align="center"> I’m a student passionate about programming and constant learning. Currently, I am studying the first year of a programming degree in Argentina, where I’m building the solid foundations for my career in the world of technology. I’m always excited to explore new technologies and challenges, while working on projects that allow me to apply my skills and expand my knowledge.
+        <h3> I’m a student passionate about programming and constant learning. Currently, I am studying the first year of a programming degree in Argentina, where I’m building the solid foundations for my career in the world of technology. I’m always excited to explore new technologies and challenges, while working on projects that allow me to apply my skills and expand my knowledge.
     </h3>
 </div>
-<div>
+<div align="center"> 
+<div align="left">
 ✅About me 
     
 - 📚 I'm currently learning Python, Java and Javascript
@@ -14,8 +14,11 @@
 - 💻 I seek to help people solve problems and challenges in the field of programming
   
 - 💬  My native language is Spanish and I am B1 in English
+<i><b>Git Activeness</b></i></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="250" height="250" /></p>
 </div>
-<div align="left"> 
+<div align="center"> 
+      <br>
     <h3>🔨 Languages ​​and Tools</h3>
     <div>
     <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" tittle="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
@@ -29,16 +32,17 @@
     </div>
 </div>
 <div align="left">
-    Soft skills
-   - Teamwork 
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;Soft skills
+      
+   ✔ Teamwork 
     
-   - Effective technical communication
+   ✔ Effective technical communication
      
-   - Leadership
+   ✔ Leadership
      
-   - Responsibility
+   ✔ Responsibility
      
-   - Proactivity and time management
+   ✔ Proactivity and time management
 <div>
 <div id="user-content-toc">
   <ul align="center">
@@ -53,4 +57,3 @@
 <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 <a href="https://mail.angelinaornellachami@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="50" width="50" /></a>
 </p>
-
