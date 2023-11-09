@@ -15,10 +15,12 @@
 - 💻 I seek to help people solve problems and challenges in the field of programming
   
 - 💬  My native language is Spanish and I am B1 in English
+<br>
+<div align="center"> 
 <i><b>Git Activeness</b></i></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="250" height="250" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinaPizzolattocount_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Angi Pizzolatto Github Stats"/></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinaPizzolatto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
 </div>
+ </div>
 <div align="center"> 
       <br>
     <h3>🔨 Languages ​​and Tools</h3>
