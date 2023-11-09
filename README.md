@@ -1,5 +1,6 @@
 <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=900&size=35&pause=1000&color=F7F7F7&width=550&height=60&lines=Hi%F0%9F%91%8BI%C2%B4m+Angelina+Pizzolatto;Computer+Science+Student;Problem+Solver;and+Freelance+worker..." alt="Typing SVG" /></a>
+      <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
         <h3> I’m a student passionate about programming and constant learning. Currently, I am studying the first year of a programming degree in Argentina, where I’m building the solid foundations for my career in the world of technology. I’m always excited to explore new technologies and challenges, while working on projects that allow me to apply my skills and expand my knowledge.
     </h3>
 </div>
@@ -16,6 +17,7 @@
 - 💬  My native language is Spanish and I am B1 in English
 <i><b>Git Activeness</b></i></p>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" width="250" height="250" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinaPizzolattocount_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Angi Pizzolatto Github Stats"/></p>
 </div>
 <div align="center"> 
       <br>
@@ -57,3 +59,6 @@
 <a href="https://discord.gg/CXX4BgYx" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 <a href="https://mail.angelinaornellachami@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="50" width="50" /></a>
 </p>
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
