@@ -6,7 +6,7 @@
 </div>
 <div align="center"> 
 <div align="left">
-✅About me 
+ABOUT ME
     
 - 📚 I'm currently learning Python, Java and Javascript
   
@@ -14,7 +14,7 @@
   
 - 💻 I seek to help people solve problems and challenges in the field of programming
   
-- 💬  My native language is Spanish and I am B1 in English
+- 💬  My native language is Spanish and I am B2 in English
 <br>
 <div align="center"> 
 <i><b>Git Activeness</b></i></p>
@@ -23,7 +23,7 @@
  </div>
 <div align="center"> 
       <br>
-    <h3>🔨 Languages ​​and Tools</h3>
+    <h3> TECH STACK</h3>
     <div>
     <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" tittle="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" tittle="CSS#" alt="CSS" width="60" height="60"/>&nbsp;
@@ -60,8 +60,6 @@
 <!--íconos y links-->
 <p align="center">
 <a href="https://www.linkedin.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://instagram.com/angipizzolatto_?igshid=YTQwZjQ0NmI0OA==" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<a href="https://discord.gg/CXX4BgYx" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
 <a href="https://mail.angelinaornellachami@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="50" width="50" /></a>
 </p>
 <!-- RAINBOW LINE BOT -->
