@@ -1,7 +1,7 @@
 <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=900&size=35&pause=1000&color=F7F7F7&width=550&height=60&lines=Hi%F0%9F%91%8BI%C2%B4m+Angelina+Pizzolatto;Computer+Science+Student;Problem+Solver;and+Freelance+worker..." alt="Typing SVG" /></a>
       <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
-        <h3> I’m a student passionate about programming and constant learning. Currently, I am studying the first year of a programming degree in Argentina, where I’m building the solid foundations for my career in the world of technology. I’m always excited to explore new technologies and challenges, while working on projects that allow me to apply my skills and expand my knowledge.
+        <h3> I am a dedicated programming student with a strong passion for continuous learning and technology. I am focused on building a solid foundation in software development. I thrive on exploring emerging technologies, taking on new challenges, and contributing to projects that allow me to apply and expand my technical skills. With a proactive attitude and a keen interest in real-world applications, I am eager to collaborate on impactful projects and grow professionally within the tech industry.
     </h3>
 </div>
 <div align="center"> 
@@ -24,14 +24,10 @@
 </div>
 <div align="left">
 ABOUT ME
-    
-- 📚 I'm currently learning Python, Java and Javascript
-  
-- 💬 I'm in the process of improving my skills as a programmer.
-  
-- 💻 I seek to help people solve problems and challenges in the field of programming
-  
-- 💬  My native language is Spanish and I am B2 in English
+- Spanish: Native language
+- English: B2 level
+- Italian: A1 level
+- German: Currently learning
 <br>
 <div align="right">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;Soft skills
