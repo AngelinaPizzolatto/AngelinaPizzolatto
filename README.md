@@ -17,11 +17,6 @@ ABOUT ME
 - 💬  My native language is Spanish and I am B2 in English
 <br>
 <div align="center"> 
-<i><b>Git Activeness</b></i></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinaPizzolatto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-</div>
- </div>
-<div align="center"> 
       <br>
     <h3> TECH STACK</h3>
     <div>
@@ -38,6 +33,11 @@ ABOUT ME
     <img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" tittle="Docker" alt="Docker" width="60" height="60"/>&nbsp;
     </div>
 </div>
+<div align="center"> 
+<i><b>Git Activeness</b></i></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinaPizzolatto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+</div>
+ </div>
 <div align="left">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;Soft skills
       
