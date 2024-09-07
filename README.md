@@ -5,18 +5,7 @@
     </h3>
 </div>
 <div align="center"> 
-<div align="left">
-ABOUT ME
-    
-- 📚 I'm currently learning Python, Java and Javascript
-  
-- 💬 I'm in the process of improving my skills as a programmer.
-  
-- 💻 I seek to help people solve problems and challenges in the field of programming
-  
-- 💬  My native language is Spanish and I am B2 in English
-<br>
-<div align="center"> 
+      <div align="center"> 
       <br>
     <h3> TECH STACK</h3>
     <div>
@@ -33,12 +22,18 @@ ABOUT ME
     <img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" tittle="Docker" alt="Docker" width="60" height="60"/>&nbsp;
     </div>
 </div>
-<div align="center"> 
-<i><b>Git Activeness</b></i></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinaPizzolatto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
-</div>
- </div>
 <div align="left">
+ABOUT ME
+    
+- 📚 I'm currently learning Python, Java and Javascript
+  
+- 💬 I'm in the process of improving my skills as a programmer.
+  
+- 💻 I seek to help people solve problems and challenges in the field of programming
+  
+- 💬  My native language is Spanish and I am B2 in English
+<br>
+<div align="right">
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;Soft skills
       
    ✔ Teamwork 
@@ -51,6 +46,11 @@ ABOUT ME
      
    ✔ Proactivity and time management
 <div>
+<div align="center"> 
+<i><b>Git Activeness</b></i></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinaPizzolatto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+</div>
+ </div>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
