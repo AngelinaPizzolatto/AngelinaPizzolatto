@@ -14,7 +14,6 @@
 </div>
 <div align="center"> 
       <div align="center"> 
-      <br>
           <h3> TECH STACK</h3>
             <h4>LANGUAGES AND FRAMEWORKS</h4>
     <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" tittle="HTML5" alt="HTML" width="70" height="70"/>&nbsp;
@@ -32,8 +31,6 @@
     <img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" tittle="Docker" alt="Docker" width="70" height="70"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" tittle="Azure" alt="Azure" width="70" height="70"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" tittle="Trello" alt="Trello" width="70" height="70"/>&nbsp;
-
-    </div>
 </div>
 <div align="center">
       <div align="LEFT">
@@ -53,23 +50,27 @@
                   <li>German: Learning</li>
             </ul>
       </div>
-      <h3>📚 EXTRAS</h3>
-      - Experienced in Agile methodologies (SCRUM).
-      - Comfortable working in dynamic and collaborative environments.
+     <div align=center>
+     <h3>📚 EXTRAS</h3>
+          <ul>
+               <li>Experienced in Agile methodologies (SCRUM)</li>
+               <li>Comfortable working in dynamic and collaborative environments</li>
+          </ul>
       <h3>📜 CERTIFICATIONS </h3>
       <h3>🚀 FEATURED PROJECTS</h3>
-
+     </div>
    </div>
 </div>
+
 <div align="center"> 
-<i><b>Git Activeness</b></i></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinaPizzolatto&true&theme=midnight-purple&hide_border=true&count_private=true">
+     <h3>GIT ACTIVENESS</h3>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AngelinaPizzolatto&true&theme=midnight-purple&hide_border=true&count_private=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelinaPizzolatto&layout=compact">
+     <br>
 </div>
- </div>
-<div id="user-content-toc">
-  <ul align="center">
+
+<div>
     <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
 </div>
 
 <!--íconos y links-->
