@@ -15,6 +15,8 @@
     <img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" tittle="CSS#" alt="CSS" width="70" height="70"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="Javascript" alt="Javascript" width="70" height="70"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Python" alt="Python" width="70" height="70"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" tittle="Angular" alt="Angular" width="70" height="70"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" tittle="Nodejs" alt="Nodejs" width="70" height="70"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" tittle="Django" alt="Django" width="70" height="70"/>&nbsp;     
     <img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" tittle="PostgreSQL" alt="PostgreSQL" width="70" height="70"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" tittle="MySQL" alt="MySQL" width="70" height="70"/>&nbsp;
@@ -29,27 +31,24 @@
             <h3>SOFT SKILLS</h3>
             <ul>
                   <li>Excellent communication and teamwork skills.</li>
-                  <li>Excellent verbal and written communication skills, with the ability to collaborate effectively with stakeholders, team members, and users across a global, remote team</li>
                   <li>Ability to Identify and solve complex technical problems</li>
-                  <li>Responsibility</li>
-                  <li>Proactivity and time management</li>
+                  <li>Effective collaboration with multidisciplinary teams to understand business requirements and needs</li>
+                  <li>Excellent verbal and written communication skills, with the ability to collaborate effectively with stakeholders, team members, and users across a global, remote team</li>
+                  <li>Commitment to continuous learning and the application of technological advances, with a focus on keeping up to date in artificial intelligence and web development.</li>
             </ul>
             <h3>🌍 LANGUAGES </h3>
             <ul>
                   <li>Spanish: Native language</li>
-                  <li> English: B2 level</li>
+                  <li>English: B2 level</li>
                   <li>Italian: A1 level</li>
                   <li>German: Currently learning</li>
             </ul>
       </div>
-### 📜 Certifications:
-- [AWS Certified Solutions Architect](link)
-- [Google IT Support](link)
-### 🚀 Featured Projects:
-- [**Project Name**](link): A tool that automates [specific task] using [technology]. Built with [languages/frameworks].
-- [**Open-Source Contribution**](link): Contributed to [project] to enhance [feature] or fix [issue].
-
-    <div align="right">
+      <h3>📜 CERTIFICATIONS </h3>
+      <h3>🚀 FEATURED PROJECTS</h3>
+      <h3>EXTRAS</h3>
+      Documentation
+      Working experience with agile methodologies (SCRUM)
 
    </div>
 </div>
