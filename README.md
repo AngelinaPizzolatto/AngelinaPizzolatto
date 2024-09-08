@@ -1,10 +1,16 @@
 <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=900&size=35&pause=1000&color=F7F7F7&width=550&height=60&lines=Hi%F0%9F%91%8BI%C2%B4m+Angelina+Pizzolatto;Programming+Student;and+Computer+Engineerin+Student..." alt="Typing SVG" /></a>
+     <h2>Welcome to My GitHub Profile 👩‍💻</h2>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=900&size=35&pause=1000&color=F7F7F7&width=550&height=60&lines=Hi%F0%9F%91%8BI%C2%B4m+Angelina+Pizzolatto;a+passionate+Programming.;and+Computer+Engineerin+Student..." alt="Typing SVG" /></a>
       <!-- RAINBOW LINE BOT -->
       <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-        <h3> I am a dedicated programming student with a strong passion for continuous learning and technology. I am focused on building a solid foundation in software development. I thrive on exploring emerging technologies, taking on new challenges, and contributing to projects that allow me to apply and expand my technical skills. With a proactive attitude and a keen interest in real-world applications, I am eager to collaborate on impactful projects and grow professionally within the tech industry.
-    </h3>
+      <h3>ABOUT ME</h3>
+      
+- 🎓 Programming student, future Computer Engineering student.
+- 🚀 Focused on building solid software development skills.
+- 🔍 Enthusiastic about emerging technologies and real impact projects.
+- 🤝 Proactive, collaborative and eager to contribute to global and remote teams.
+      
 </div>
 <div align="center"> 
       <div align="center"> 
@@ -24,6 +30,9 @@
     <img src ="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" tittle="Git" alt="Git" width="70" height="70"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" tittle="Linux" alt="Linux" width="70" height="70"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" tittle="Docker" alt="Docker" width="70" height="70"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" tittle="Azure" alt="Azure" width="70" height="70"/>&nbsp;
+    <img src ="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" tittle="Trello" alt="Trello" width="70" height="70"/>&nbsp;
+
     </div>
 </div>
 <div align="center">
@@ -33,28 +42,28 @@
                   <li>Excellent communication and teamwork skills.</li>
                   <li>Ability to Identify and solve complex technical problems</li>
                   <li>Effective collaboration with multidisciplinary teams to understand business requirements and needs</li>
-                  <li>Excellent verbal and written communication skills, with the ability to collaborate effectively with stakeholders, team members, and users across a global, remote team</li>
-                  <li>Commitment to continuous learning and the application of technological advances, with a focus on keeping up to date in artificial intelligence and web development.</li>
+                  <li>Excellent verbal and written communication skills in global and remote teams.</li>
+                  <li>Commitment to continuous learning and the application of technological advances.</li>
             </ul>
             <h3>🌍 LANGUAGES </h3>
             <ul>
-                  <li>Spanish: Native language</li>
-                  <li>English: B2 level</li>
-                  <li>Italian: A1 level</li>
-                  <li>German: Currently learning</li>
+                  <li>Spanish: Native</li>
+                  <li>English: B2</li>
+                  <li>Italian: A1</li>
+                  <li>German: Learning</li>
             </ul>
       </div>
+      <h3>📚 EXTRAS</h3>
+      - Experienced in Agile methodologies (SCRUM).
+      - Comfortable working in dynamic and collaborative environments.
       <h3>📜 CERTIFICATIONS </h3>
       <h3>🚀 FEATURED PROJECTS</h3>
-      <h3>EXTRAS</h3>
-      Documentation
-      Working experience with agile methodologies (SCRUM)
 
    </div>
 </div>
 <div align="center"> 
 <i><b>Git Activeness</b></i></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinaPizzolatto&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AngelinaPizzolatto&true&theme=midnight-purple&hide_border=true&count_private=true">
 </div>
  </div>
 <div id="user-content-toc">
