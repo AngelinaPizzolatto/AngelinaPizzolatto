@@ -1,5 +1,7 @@
 <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=900&size=35&pause=1000&color=F7F7F7&width=550&height=60&lines=Hi%F0%9F%91%8BI%C2%B4m+Angelina+Pizzolatto;Programming+Student;and+Computer+Engineerin+Student..." alt="Typing SVG" /></a>
+      <!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
       <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
         <h3> I am a dedicated programming student with a strong passion for continuous learning and technology. I am focused on building a solid foundation in software development. I thrive on exploring emerging technologies, taking on new challenges, and contributing to projects that allow me to apply and expand my technical skills. With a proactive attitude and a keen interest in real-world applications, I am eager to collaborate on impactful projects and grow professionally within the tech industry.
     </h3>
@@ -21,31 +23,22 @@
     </div>
 </div>
 <div align="center">
-      <div align="right">
-
- <h3> ABOUT ME </h3>
-- Spanish: Native language
-            
-- English: B2 level
-  
-- Italian: A1 level
-  
-- German: Currently learning
+      <div align="LEFT">
+            <h3>SOFT SKILLS</h3>
+          ✔ Teamwork 
+          ✔ Effective technical communication
+          ✔ Leadership
+          ✔ Responsibility
+          ✔ Proactivity and time management
+            <h3> ABOUT ME </h3>
+            Spanish: Native language
+            English: B2 level
+            Italian: A1 level
+            German: Currently learning
 <br>
       </div>
     <div align="right">
-      <h3>SOFT SKILLS</h3>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;
-      
-   ✔ Teamwork 
-    
-   ✔ Effective technical communication
-     
-   ✔ Leadership
-     
-   ✔ Responsibility
-     
-   ✔ Proactivity and time management
+
    </div>
 </div>
 <div align="center"> 
@@ -64,6 +57,3 @@
 <a href="https://www.linkedin.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 <a href="https://mail.angelinaornellachami@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="gmail" height="50" width="50" /></a>
 </p>
-<!-- RAINBOW LINE BOT -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-
