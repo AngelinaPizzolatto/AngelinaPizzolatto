@@ -1,6 +1,6 @@
 <div align=center>
      <h2>Welcome to My GitHub Profile 👩‍💻</h2>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=900&size=35&pause=1000&color=F7F7F7&width=550&height=60&lines=Hi%F0%9F%91%8BI%C2%B4m+Angelina+Pizzolatto;a+passionate+Programming.;and+Computer+Engineerin+Student..." alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mooli&weight=900&size=35&pause=1000&color=F7F7F7&width=550&height=60&lines=Hi%F0%9F%91%8BI%C2%B4m+Angelina+Pizzolatto;a+passionate+Programmer.;and+Computer+Engineerin+Student..." alt="Typing SVG" /></a>
       <!-- RAINBOW LINE BOT -->
       <br>
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
