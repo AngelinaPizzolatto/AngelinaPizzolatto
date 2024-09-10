@@ -20,7 +20,6 @@
     <img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" tittle="CSS#" alt="CSS" width="70" height="70"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" tittle="Javascript" alt="Javascript" width="70" height="70"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" tittle="Python" alt="Python" width="70" height="70"/>&nbsp;
-    <img src ="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" tittle="Angular" alt="Angular" width="70" height="70"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" tittle="Nodejs" alt="Nodejs" width="70" height="70"/>&nbsp;
     <img src ="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" tittle="Django" alt="Django" width="70" height="70"/>&nbsp;     
     <img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" tittle="PostgreSQL" alt="PostgreSQL" width="70" height="70"/>&nbsp;
