@@ -35,11 +35,11 @@
       <div align="LEFT">
             <h3>SOFT SKILLS</h3>
             <ul>
-                  <li>Excellent communication and teamwork skills.</li>
-                  <li>Ability to Identify and solve complex technical problems</li>
+                  <li>Excellent communication and teamwork skills</li>
+                  <li>Ability to identify and solve complex technical problems</li>
                   <li>Effective collaboration with multidisciplinary teams to understand business requirements and needs</li>
-                  <li>Excellent verbal and written communication skills in global and remote teams.</li>
-                  <li>Commitment to continuous learning and the application of technological advances.</li>
+                  <li>Excellent verbal and written communication skills in global and remote teams</li>
+                  <li>Commitment to continuous learning and the application of technological advances</li>
             </ul>
             <h3>🌍 LANGUAGES </h3>
             <ul>
