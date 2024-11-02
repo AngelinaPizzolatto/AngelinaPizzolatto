@@ -55,6 +55,7 @@
                <li>Experienced in Agile methodologies (SCRUM)</li>
                <li>Comfortable working in dynamic and collaborative environments</li>
           </ul>
+       <h3>📜 CERTIFICATIONS </h3>
       <h3>🚀 FEATURED PROJECTS</h3>
      </div>
    </div>
