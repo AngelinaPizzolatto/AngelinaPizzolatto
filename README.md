@@ -8,7 +8,7 @@
       
 - 🎓 Programming student, future Computer Engineering student.
 - 🚀 Focused on building solid software development skills.
-- - 🤝 Proactive, collaborative and eager to contribute to global and remote teams.
+- 🤝 Proactive, collaborative and eager to contribute to global and remote teams.
 - 🔍 Enthusiastic about emerging technologies and real impact projects.
       
 </div>
@@ -46,7 +46,6 @@
                   <li>Spanish: Native</li>
                   <li>English: B2</li>
                   <li>Italian: A1</li>
-                  <li>German: Learning</li>
             </ul>
       </div>
      <div align=center>
